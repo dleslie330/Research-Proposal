@@ -176,7 +176,7 @@ void LitReview::compiler(){
 
 void LitReview::interpreter(){
     /*
-        An interpreter reads a code file and translate's teh file line-by-line. This
+        An interpreter reads a code file and translate's the file line-by-line. This
         means an interpreter creates each line of machine code and executes that machine
         code while still reading and translating the file. This makes error catching much
         easier than a compiler does since errors happen and get executed on the exact line
@@ -236,8 +236,4 @@ void LitReview::conclusion(){
         the start of my journey. As I start on my adventure, I will likely need to find more
         sources to pull me out of some mental blocks, issues, or general spaces of confusion.
     */
-};
-
-LitReview::~LitReview(){
-    // TO-DO: Create works cited page.
 };

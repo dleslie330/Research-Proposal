@@ -7,7 +7,6 @@
 class LitReview{
     public:
         LitReview();
-        ~LitReview();
         void inspiration();
         void chicken();
         void chef();
