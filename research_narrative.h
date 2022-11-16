@@ -5,8 +5,9 @@
 class ResearchNarrative{
     public:
         ResearchNarrative();
-        ~ResearchNarrative();
-
+        void chicken();
+        void chef();
+        void brainfuck();
 };
 
 #endif
