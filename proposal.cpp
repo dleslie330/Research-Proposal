@@ -19,6 +19,12 @@ int main() {
 
     LitReview lr = LitReview();
 
+    // I have provided a visual for the expected timeframe and work progress for this project
+    // The numbers at the top of the gantt chart represent weeks
+    // The weeks in the chart start on the first week of christmas break and go till the start of Capstone in the Spring of 2024
+
+    string timeframefile = "GanttChart.png";
+
     Bibliography bib = Bibliography();
 
     return 0;
