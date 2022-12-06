@@ -13,7 +13,9 @@ struct Header {
 };
 
 int main() {
-    struct Header header = { "Dakota Leslie", "Oxford Tutorial", "Dr. Donna Bowman", "18 Nov 2022"};
+    struct Header header = { "Dakota Leslie", "Oxford Tutorial", "Dr. Donna Bowman", "5 Dec 2022"};
+
+    string Mentor = "Dr. Vamsi Paruchuri";
 
     ResearchNarrative rn = ResearchNarrative();
 

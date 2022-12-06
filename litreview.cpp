@@ -40,7 +40,7 @@ void LitReview::inspiration(){
 void LitReview::chicken(){
     /*
         The Chicken esolang only has one acceptable token: "Chicken".
-        That is to say, a functioning chicken program only looks liek a wall of chickens.
+        That is to say, a functioning chicken program only looks like a wall of chickens.
     */
 
    // How does chicken work?
