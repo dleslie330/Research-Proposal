@@ -139,7 +139,7 @@ void LitReview::turingcomplete(){
 
 void LitReview::methodologies(){
     /*
-        I stated earlier that brainfuck uses a compiler while chicken uses an interpreter,
+        I stated earlier that Brainfuck uses a compiler while chicken uses an interpreter,
         but what does that mean?
     */
    

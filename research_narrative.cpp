@@ -25,7 +25,7 @@ ResearchNarrative::ResearchNarrative(){
     */
 
     /*
-        These examples include -- but are not limited to -- Chicken, Chef, and brainfuck.
+        These examples include -- but are not limited to -- Chicken, Chef, and Brainfuck.
         The Chicken esolang's syntax only takes into account spaces, newline characters,
         and the word "chicken." While this language is fully functional and able to write
         a "Hello World!" program, all a user can see is a wall of chickens. The view of this
@@ -47,7 +47,7 @@ ResearchNarrative::ResearchNarrative(){
     chef();
 
     /*
-        For the brainfuck esolang, the only valid characters you can use to write code are
+        For the Brainfuck esolang, the only valid characters you can use to write code are
         "[" "]" "," "." "+" "-" ">" "<".
     */
 
@@ -82,7 +82,7 @@ ResearchNarrative::ResearchNarrative(){
     /*
         This project in its current state can take one of two routes going forward. I can create a language
         that reads the syntax to call operational ocdes (opcodes), like chicken, or I can use syntax
-        to move a pointer around memory and manipulate data at that memory address, like brainfuck. The
+        to move a pointer around memory and manipulate data at that memory address, like Brainfuck. The
         choice for this answer will either lead to me compiling the code into a different language to run
         the instruction, or interpreting the code into something the computer can understand. however,
         I need to decide what kind of theme my eslang will have before I can make a decision on which route
@@ -246,7 +246,7 @@ void ResearchNarrative::chef(){
 };
 
 void ResearchNarrative::brainfuck(){
-    // Example of a "Hello World!" program in brainfuck:
+    // Example of a "Hello World!" program in Brainfuck:
 
     /*
         ++++++++++[>+++++++>++++++++++>+++>+<<<<-]
@@ -255,7 +255,7 @@ void ResearchNarrative::brainfuck(){
     */
 
     /*
-        This program, run in an environment suited for brainfuck, would output "Hello, World!" to your computer.
+        This program, run in an environment suited for Brainfuck, would output "Hello, World!" to your computer.
         Here the line breaks don't impact the code since the language doesn't account for whitespaces.
     */
 
